@@ -1,0 +1,46 @@
+
+---Downloaded files---
+The import files for: Dentist were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress/wp-content/uploads/2024/02/demo-content-import-file_2024-02-16__09-34-59.xml
+Widget file = C:\xampp\htdocs\wordpress/wp-content/uploads/2024/02/demo-widgets-import-file_2024-02-16__09-34-59.json
+Customizer file = C:\xampp\htdocs\wordpress/wp-content/uploads/2024/02/demo-customizer-import-file_2024-02-16__09-34-59.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Right Sidebar : 
+
+Lohko - No Title - Widget already exists
+Lohko - No Title - Imported
+Lohko - No Title - Imported
+Lohko - No Title - Imported
+borderless_widget_contact_information - No Title - Site does not support widget
+borderless_social_media_icons - No Title - Site does not support widget
+Lohko - No Title - Imported
+
+Left Sidebar : 
+
+Lohko - No Title - Imported
+Lohko - No Title - Imported
+
+second-main-footer : Sidebar does not exist in theme (moving widget to Inactive)
+
+Lohko - No Title - Imported to Inactive
+Lohko - No Title - Imported to Inactive
+Lohko - No Title - Imported to Inactive
+Lohko - No Title - Imported to Inactive
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---library/after_import---
+
